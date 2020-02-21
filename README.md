@@ -6,6 +6,10 @@ This is the code used for Machine Learning Challenge (Speech Recognition) at MSc
 
 We have finished 3rd place.
 
+You can download the required dataset below:
+
+https://surfdrive.surf.nl/files/index.php/s/A91xgk7B5kXNvfJ
+
 **Introduction**
 
 In this challenge, the goal is to learn to recognise which English word was spoken in an audio recording. Recognising phonemes to be able to recognise an arbitrary word is not the task at hand. Rather, it is limited to recognising a set number of words. This is a multinomial classification problem.
